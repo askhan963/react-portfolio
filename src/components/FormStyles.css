@@ -1,0 +1,48 @@
+.contact-form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    color: var(--lightblue);
+    padding: 3rem 0;
+  }
+  .contact-form label{
+    font-size: 1.3rem;
+  }
+  .contact-form h2{
+    margin: 20px 0;
+    text-align: center;
+    color: var(--brightblue);
+  }
+  .form-group {
+    margin-bottom: 15px;
+  }
+  .form-group .btn{
+    margin-left: 40%;
+  }
+  
+  
+  
+  .form-control {
+    background-color: var(--lightblue);
+    color: #000;
+    font-size: 1.3rem;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 15px;
+  }
+  
+  
+  
+  @media (max-width: 600px) {
+    .contact-form {
+      padding: 15px 5px;
+    }
+  }
+  
