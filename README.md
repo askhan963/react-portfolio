@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Some of Screen shots are...
 
 ### 1
+![Sample Imag](https://github.com/askhan963/react-portfolio/blob/main/screen-shots/1.png)
 ### 2
 ### 3
 
