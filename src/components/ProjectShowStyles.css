@@ -13,6 +13,7 @@
     border-radius: 10px;
     width: 100%;
     height: 100%;
+    margin: 10px;
 }
 .proj-card img{
     width: 95%;
@@ -31,6 +32,8 @@
 .proj-card .proj-btn{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
 }
 .proj-h .h1{
     text-align: center;
